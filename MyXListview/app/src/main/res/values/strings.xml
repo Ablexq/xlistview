@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyXListview</string>
+
+    <string name="sorry_no_match">很抱歉,没有匹配的数据</string>
+</resources>

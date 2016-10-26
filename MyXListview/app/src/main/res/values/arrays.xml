@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menuItem">
+        <item>菜单1</item>
+        <item>菜单2</item>
+        <item>菜单3</item>
+        <item>菜单4</item>
+    </string-array>
+
+    <string-array name="companies">
+        <item>沙县小吃</item>
+        <item>兰州拉面</item>
+        <item>龙江猪脚</item>
+        <item>黄焖鸡饭</item>
+        <item>重庆火锅</item>
+        <item>北京烤鸭</item>
+        <item>玉林狗肉</item>
+        <item>东北饺子</item>
+    </string-array>
+</resources>
